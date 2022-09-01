@@ -1,8 +1,8 @@
 {
-  "rewrites": [
-    {
-      "source": "/api/:match*",
-      "destination": "https://music-api.mbskys.tk/:match*"
-    }
-  ]
+    "rewrites": [
+        {
+            "source": "/api/:match*",
+            "destination": "https://music-api.mbskys.tk/:match*"
+        }
+    ]
 }
